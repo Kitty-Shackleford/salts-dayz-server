@@ -1,3 +1,4 @@
 {"schema_version":1,"server_id":"15580969","generated_at":"2026-11-26T00:40:25.179Z","status":"stopped","players":{"current":0,"maximum":50},"uptime":{"seconds":null},"last_status_change":1795604098}
 {"schema_version":1,"server_id":"15580969","generated_at":"2026-11-26T06:32:14.942Z","status":"stopped","players":{"current":0,"maximum":50},"uptime":{"seconds":null},"last_status_change":1795604098}
 {"schema_version":1,"server_id":"15580969","generated_at":"2026-11-26T12:28:17.042Z","status":"stopped","players":{"current":0,"maximum":50},"uptime":{"seconds":null},"last_status_change":1795604098}
+{"schema_version":1,"server_id":"15580969","generated_at":"2026-11-26T18:24:02.407Z","status":"started","players":{"current":0,"maximum":50},"uptime":{"seconds":null},"last_status_change":1795710118}
